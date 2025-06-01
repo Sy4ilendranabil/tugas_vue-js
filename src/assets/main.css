@@ -1,0 +1,14 @@
+@import "flowbite/src/themes/default";
+@import "tailwindcss";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+
+
+.libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+
